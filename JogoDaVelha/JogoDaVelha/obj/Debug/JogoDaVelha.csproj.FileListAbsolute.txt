@@ -1,0 +1,27 @@
+E:\Executaveis liberados\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+E:\Executaveis liberados\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+E:\Executaveis liberados\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+E:\Executaveis liberados\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+E:\Executaveis liberados\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+E:\Executaveis liberados\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
+E:\Executaveis liberados\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+E:\Executaveis liberados\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+D:\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+D:\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+D:\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+D:\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+D:\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+D:\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+D:\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+D:\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+D:\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
+C:\Users\Segmento Farma\Desktop\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\Segmento Farma\Desktop\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\Segmento Farma\Desktop\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\Segmento Farma\Desktop\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\Segmento Farma\Desktop\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+C:\Users\Segmento Farma\Desktop\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\Segmento Farma\Desktop\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
+C:\Users\Segmento Farma\Desktop\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\Segmento Farma\Desktop\Faculdade\Programação Visual\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
